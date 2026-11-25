@@ -24,3 +24,10 @@ Não recebemos menu completo nem preços. A vitrine apresenta categorias e exper
 ## Execução
 
 Abra `index.html` em um servidor estático ou publique a pasta no GitHub Pages. `arte/prancha.html` é a prancha responsiva para apresentar a ideia em celular, tablet e notebook.
+
+## Prévia publicada
+
+- Site: https://oluisvi.github.io/a-casa-da-olive-conceito/
+- Prancha navegável: https://oluisvi.github.io/a-casa-da-olive-conceito/arte/prancha.html
+- PNG da prancha: `arte/prancha.png` (para anexar como imagem, sem mandar o link da prancha no texto).
+- GitHub Pages build `1402493870`: built; site, prancha HTML e PNG retornam HTTP 200 em 25/11/2026.
